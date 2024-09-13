@@ -2,4 +2,4 @@ The 'Assignments' file of the 'DS2002' repository contains the following assignm
   
   SQL Homework 1 -> cuh9kzsql.sql
   
-  SQLite HQ -> SQLiteHW.ipynb (Interactive Python Notebook) / SQLiteHW.py (plain text file)
+  SQLite HQ -> SQLiteHW.ipynb (interactive python notebook) / SQLiteHW.py (plain text file)
