@@ -3,3 +3,5 @@ The 'Assignments' file of the 'DS2002' repository contains the following assignm
   SQL Homework 1 -> cuh9kzsql.sql
   
   SQLite HQ -> SQLiteHW.ipynb (interactive python notebook) / SQLiteHW.py (plain text file)
+
+  CSV-Pandas Lab -> pandas_and_csv_hands_on.ipynb
