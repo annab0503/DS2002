@@ -6,4 +6,4 @@ The 'Assignments' file of the 'DS2002' repository contains the following assignm
 
   CSV-Pandas Lab -> pandas_and_csv_hands_on.ipynb
 
-  CSV and pandas -> CSV_and_Pandas.ipynb
+  CSV and pandas -> CSV_and_Pandas.ipynb / CSV and Pandas Reflection.pdf
