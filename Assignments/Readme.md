@@ -5,3 +5,5 @@ The 'Assignments' file of the 'DS2002' repository contains the following assignm
   SQLite HQ -> SQLiteHW.ipynb (interactive python notebook) / SQLiteHW.py (plain text file)
 
   CSV-Pandas Lab -> pandas_and_csv_hands_on.ipynb
+
+  CSV and pandas -> CSV_and_Pandas.ipynb
