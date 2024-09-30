@@ -9,3 +9,5 @@ The 'Assignments' file of the 'DS2002' repository contains the following assignm
   CSV and pandas -> CSV_and_Pandas.ipynb / CSV and Pandas Reflection.pdf
 
   API Lab -> Universities_and_Stock_API_Workshop.ipynb
+
+  API Homework -> API_Homework.ipynb
