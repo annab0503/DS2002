@@ -13,3 +13,5 @@ The 'Assignments' file of the 'DS2002' repository contains the following assignm
     API Homework -> API_Homework.ipynb
 
     Mongo HW -> Mongo_HW.ipynb
+
+    Data Project 1 -> Data Project 1 (File)
