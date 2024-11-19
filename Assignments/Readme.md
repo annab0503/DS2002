@@ -15,3 +15,5 @@ The 'Assignments' file of the 'DS2002' repository contains the following assignm
     Mongo HW -> Mongo_HW.ipynb
 
     Data Project 1 -> Data Project 1 (File)
+
+    Viz Workshops -> Visualization_Libraries_Demo.ipynb
